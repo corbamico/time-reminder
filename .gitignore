@@ -1,0 +1,9 @@
+.vscode
+.code
+obj
+bin
+
+*.obj
+*.exe
+*.res
+build
